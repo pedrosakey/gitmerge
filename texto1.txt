@@ -2,6 +2,7 @@ En un lugar de la mancha.
 de cuyo (git) nombre no quiero
 acordarme.
 Mas texto de Git.
+Otro commit mas.
 
 -----------------
 Comentario a pie de pagina
