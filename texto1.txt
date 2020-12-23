@@ -1,6 +1,7 @@
 En un lugar de la mancha.
 de cuyo (git) nombre no quiero
 acordarme.
+Mas texto de Git.
 
 -----------------
 Comentario a pie de pagina
