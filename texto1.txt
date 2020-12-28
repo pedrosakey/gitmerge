@@ -6,3 +6,4 @@ Otro commit mas.
 Modificacione sin conflicto
 
 -----------------
+Comentario en repositorio remoto.
