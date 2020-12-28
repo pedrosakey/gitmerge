@@ -3,5 +3,6 @@ de cuyo (git) nombre no quiero
 acordarme.
 Mas texto de Git.
 Otro commit mas.
+Modificacione sin conflicto
 
 -----------------
