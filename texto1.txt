@@ -1,10 +1,5 @@
 En un lugar de la mancha.
-de cuyo (git) nombre no quiero
+de cuyo nombre no quiero
 acordarme.
-Mas texto de Git.
-Otro commit mas.
-Modificacione sin conflicto
 
 -----------------
-Comentario en repositorio remoto.
-Modificaiones en remoto
