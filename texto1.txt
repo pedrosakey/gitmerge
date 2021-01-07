@@ -7,4 +7,5 @@ pedroDevelop in line 6
 Linea 7
 linea 8
 -----------------
+ZONA DE COMENTARIOS
 Esta es la historia de un hidalgo
